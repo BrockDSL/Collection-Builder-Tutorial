@@ -1,4 +1,4 @@
-![DSL Logo][dsl_logo.png]
+![DSL Logo](dsl_logo.png)
 
 # A Tutorial on Using Collection Builder
 ![Cat Photo Metadata](https://124135-361502-raikfcquaxqncofqfm.stackpathdns.com/asset/img/banners/kb/data-glossary/metadata.png)
