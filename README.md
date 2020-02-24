@@ -1,6 +1,6 @@
-![DSL Logo][dsllogo]
+![DSL Logo][dsl_logo.png]
 
-# Katia's Project on Collection Builder
+# A Tutorial on Using Collection Builder
 ![Cat Photo Metadata](https://124135-361502-raikfcquaxqncofqfm.stackpathdns.com/asset/img/banners/kb/data-glossary/metadata.png)
  
 ## Introduction
