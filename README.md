@@ -15,21 +15,21 @@ CollectionBuilder Test for the Brock DSL: https://kat-a-t.github.io/Brock_DSL_Co
 
 2) Apply metadata information to metadata template provided for CollectionBuilder (https://docs.google.com/spreadsheets/d/14iWUEoAJ6T9WDqlPnIHRN7M8-YgmMV4_bjFPVuSZ0yk/edit?usp=sharing) 
 
-				* Note: Can automate process through coding 
+	* Note: Can automate process through coding 
 
 3) Import the CollectionBuilder repository 
 
-    1) Find repository at https://github.com/CollectionBuilder/collectionbuilder-gh 
+	1) Find repository at https://github.com/CollectionBuilder/collectionbuilder-gh 
 
-    2) Click on 'Clone or download' 
+	2) Click on 'Clone or download' 
 
-    3) Click 'Clone with HTTPS' copy to clipboard icon 
+	3) Click 'Clone with HTTPS' copy to clipboard icon 
 
-    4) Under the + sign on the top right corner of the screen, press 'Import repository' 
+	4) Under the + sign on the top right corner of the screen, press 'Import repository' 
 
-    5) Paste URL into 'Your old repository's clone URL' 
+	5) Paste URL into 'Your old repository's clone URL' 
 
-    6) Name, then begin import 
+	6) Name, then begin import 
 
 4) Upload the files to the "objects" directory 
 
@@ -37,13 +37,13 @@ CollectionBuilder Test for the Brock DSL: https://kat-a-t.github.io/Brock_DSL_Co
 
 6) Go back to root directory and find _config.yml file 
 
-				* Edit the file according to the specifications recorded in file 
+	* Edit the file according to the specifications recorded in file 
 
 7) Navigate to the _data directory from the root branch and open theme.yml 
 
-				* Work through file and edit according to specifications
+	* Work through file and edit according to specifications
 
-				* Note: be sure to edit the name beside the 'metadata' tag to the name of your csv file that contains your metadata 
+	* Note: be sure to edit the name beside the 'metadata' tag to the name of your csv file that contains your metadata 
 
 8) Publish digital collection through master branch 
 
