@@ -35,7 +35,7 @@ CollectionBuilder Test for the Brock DSL: https://kat-a-t.github.io/Brock_DSL_Co
 
 5) Upload the csv file of metadata to _data directory 
 
-6) Go back to root directory and found _config.yml file 
+6) Go back to root directory and find _config.yml file 
 
    * Edit the file according to the specifications recorded in file 
 
