@@ -10,7 +10,7 @@ It is very similar to Omeka S in that it creates exhibits surrounding metadata. 
 
 CollectionBuilder Test for the Brock DSL: https://kat-a-t.github.io/Brock_DSL_CollectionBuilder/
 
-### Project Process
+### Steps
 1) Procure a collection of jpg images, YouTube videos, pdf, mp3 and/or mp4 files. Acquire relevant metadata surrounding the files.
 
 2) Apply metadata information to metadata template provided for CollectionBuilder (https://docs.google.com/spreadsheets/d/14iWUEoAJ6T9WDqlPnIHRN7M8-YgmMV4_bjFPVuSZ0yk/edit?usp=sharing) 
