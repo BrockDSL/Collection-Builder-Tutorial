@@ -15,7 +15,7 @@ CollectionBuilder Test for the Brock DSL: https://kat-a-t.github.io/Brock_DSL_Co
 
 2) Apply metadata information to metadata template provided for CollectionBuilder (https://docs.google.com/spreadsheets/d/14iWUEoAJ6T9WDqlPnIHRN7M8-YgmMV4_bjFPVuSZ0yk/edit?usp=sharing) 
 
-    * Note: Can automate process through coding 
+				* Note: Can automate process through coding 
 
 3) Import the CollectionBuilder repository 
 
@@ -37,13 +37,13 @@ CollectionBuilder Test for the Brock DSL: https://kat-a-t.github.io/Brock_DSL_Co
 
 6) Go back to root directory and find _config.yml file 
 
-   * Edit the file according to the specifications recorded in file 
+				* Edit the file according to the specifications recorded in file 
 
 7) Navigate to the _data directory from the root branch and open theme.yml 
 
-    * Work through file and edit according to specifications
+				* Work through file and edit according to specifications
 
-    * Note: be sure to edit the name beside the 'metadata' tag to the name of your csv file that contains your metadata 
+				* Note: be sure to edit the name beside the 'metadata' tag to the name of your csv file that contains your metadata 
 
 8) Publish digital collection through master branch 
 
