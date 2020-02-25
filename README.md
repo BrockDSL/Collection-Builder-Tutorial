@@ -1,14 +1,14 @@
 ![DSL Logo](dsl_logo.png)
 
-# A Tutorial on Using Collection Builder
+# A Tutorial on Using CollectionBuilder
 ![Cat Photo Metadata](https://124135-361502-raikfcquaxqncofqfm.stackpathdns.com/asset/img/banners/kb/data-glossary/metadata.png)
  
 ## Introduction
-Collection Builder is a lightweight digital tool that creates exhibits with metadata support through Github. It was created and is maintained by librarians from the University of Idaho to aid librarians and others in visualizing metadata and browsing through metadata rich collections.
+CollectionBuilder is a lightweight digital tool that creates exhibits with metadata support through Github. It was created and is maintained by librarians from the University of Idaho to aid librarians and others in visualizing metadata and browsing through metadata rich collections.
 
-It is very similar to Omeka S in that it creates exhibits surrounding metadata. However if one could say that Omeka S runs along a dimension of few objects with a great deal of metadata, then one could also say that Collection Builder runs along a separate dimension of more objects bound together by a csv file with metadata, and allows for visualization of connections between the objects.
+It is very similar to Omeka S in that it creates exhibits surrounding metadata. However if one could say that Omeka S runs along a dimension of few objects with a great deal of metadata, then one could also say that CollectionBuilder runs along a separate dimension of more objects bound together by a csv file with metadata, and allows for visualization of connections between the objects.
 
-Collection Builder Test for the Brock DSL: https://kat-a-t.github.io/Brock_DSL_CollectionBuilder/
+CollectionBuilder Test for the Brock DSL: https://kat-a-t.github.io/Brock_DSL_CollectionBuilder/
 
 ### Project Process
 1) Procure a collection of jpg images, YouTube videos, pdf, mp3 and/or mp4 files. Acquire relevant metadata surrounding the files.
@@ -50,4 +50,4 @@ Collection Builder Test for the Brock DSL: https://kat-a-t.github.io/Brock_DSL_C
 9) Continue to edit theme/csv files until the website fits specifications 
 
 ## Conclusion
-Collection Builder is a very easy-to-use and intuitive tool. It allows for visualization of the connections between objects within a collection, such as location and time period. Furthermore, all that it requires from the user is a free to creat Github account.
+CollectionBuilder is a very easy-to-use and intuitive tool. It allows for visualization of the connections between objects within a collection, such as location and time period. Furthermore, all that it requires from the user is a free to creat Github account.
